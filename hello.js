@@ -1,4 +1,6 @@
+//31=10-2020
 console.log('Hey there...! Mahesh is Here');
+
 
 // we use document.write('Hey there') in HTML to show output. But in pure js we use 
 //console.log()
