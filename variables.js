@@ -1,3 +1,4 @@
+//31-10-2020
 // we have 3 variables in Js
 
 // 1.var
@@ -9,7 +10,7 @@ var name= 'Mahesh';   //redeclaration
 console.log(name);
 
 var name= 'Ramesh'; // revalued
-console.log (name);
+console.log (name);  
 
 
 // 2.let
