@@ -11,3 +11,7 @@ console.log('And they are as Follows')
  console.log(MarvelStudio)
 //accessing perticular elements in array
  console.log(`But the ${MarvelStudio[0]} and ${MarvelStudio[2]} are My Favourite`)
+
+
+let rev=MarvelStudio.length;
+ console.log(rev);
